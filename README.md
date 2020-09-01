@@ -9,7 +9,6 @@
 <!-- 😄 Pronouns: ...-->
 - ⚡ Fun fact: I like lightning, that why i kept this line here :D
 
-<br />
 <hr>
 ### Languages and Tools:
 
