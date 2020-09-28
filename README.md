@@ -1,12 +1,9 @@
 ### Hi there 👋, I'm Le Binh An. Welcome to my GitHub :D
 
-- 🔭 I’m currently working on Laravel project at my company in Hanoi, Vietnam
+- 🔭 I’m currently working as Laravel developer at my GI Software in Hanoi, Vietnam
 - 🌱 I’m currently learning React, Laravel, Vue, Docker and so on!
-- 👯 I’m looking to collaborate on ...
-<!-- 🤔 I’m looking for help with ... -->
-<!-- 💬 Ask me about ...-->
-- 📫 How to reach me: ...
-<!-- 😄 Pronouns: ...-->
+- 👯 I’m looking to collaborate on web development, both Laravel and other web framework like Spring, Struts, Dijango and so on!
+- 📫 How to reach me: I put every avaiable contact on the left column, you can check them out. 
 - ⚡ Fun fact: I like lightning, that why i kept this line here :D
 
 <hr>
@@ -19,6 +16,8 @@ Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+  <br/>
+  
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
