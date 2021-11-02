@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/LeBinhAn"><img src="https://api.daily.dev/devcards/a8a4dbaf35fe4199a180d3f23c83ef9f.png?r=b2n" width="400" alt="Le Binh An's Dev Card"/></a>
 ### Hi there 👋, I'm Le Binh An. Welcome to my GitHub :D
 
 - 🔭 I’m currently working as Laravel developer at my GI Software in Hanoi, Vietnam
